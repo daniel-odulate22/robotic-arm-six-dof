@@ -1,6 +1,6 @@
 # Six-DOF Robotic Arm Simulation
 
-<img src="[https://github.com/daniel-odulate22/blob/main/six-dof-robo-arm-tinkercad.png](https://github.com/daniel-odulate22/robotic-arm-six-dof/blob/main/six-dof-robo-arm-tinkercad.png)" alt="img" />
+<img src="https://github.com/daniel-odulate22/robotic-arm-six-dof/blob/main/six-dof-robo-arm-tinkercad.png" alt="img" />
 
 A simulated six-degree-of-freedom (6-DOF) robotic arm controlled by six potentiometers and an Arduino Uno. Each potentiometer independently controls the position of one servo motor, demonstrating the relationship between analog inputs and servo motion.
 
