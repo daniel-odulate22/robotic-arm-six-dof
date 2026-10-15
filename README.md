@@ -67,7 +67,7 @@ Each potentiometer's middle terminal (wiper) connects to its assigned analog inp
 
 ## Code
 
-The Arduino program is in [`six_dof_arm.ino`](six_dof_arm.ino).
+The Arduino program is in [`six_dof_arm.ino`](https://github.com/daniel-odulate22/robotic-arm-six-dof/blob/main/six-dof-robot-arm.ino).
 
 The code uses arrays to associate each servo with its corresponding potentiometer, allowing all six joints to be controlled using a compact loop.
 
